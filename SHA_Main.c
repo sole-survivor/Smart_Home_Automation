@@ -41,3 +41,5 @@ int main()
 			IOCLR0=LED3;
 
 		}
+	}
+}
